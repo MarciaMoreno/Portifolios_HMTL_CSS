@@ -4,6 +4,6 @@ Pink_Anime-dark
 
 ## Este projeto é o meu primeiro web site com foco em minha TRILHA DE APRENDIZAGEM como desenvolvedora web, mobile e cannonical. 
 
-https://marciapatriciam.w3spaces.com/. 
+https://dev-marciapatricia.w3spaces.com
 
 @MarciaMoreno / ©️ 2024 / Nazaré do Piauí - Brasil
