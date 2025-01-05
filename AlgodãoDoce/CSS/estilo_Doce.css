@@ -1,0 +1,58 @@
+
+/****http://www.minhadocejoquebede.com.br
+Formato CSS: estilo_Doce - BODY - São Paulo/07-10-2018 */
+	A{ text-decoration: none;}
+	A:link{ color: #483D8B;}
+	A:visited{ color: #483D8B;}
+	UL LI{ list-style: none; text-decoration: none; display: inline;}	
+	BODY{ background-color: #7A378B;}
+	
+/****http://www.minhadocejoquebede.com.br
+Formato CSS: estilo_Doce - CABEÇALHO - São Paulo/07-10-2018	*/	
+	
+	
+	
+
+/****http://www.minhadocejoquebede.com.br
+Formato CSS: estilo_Doce - HEADER - São Paulo/07-10-2018 */	
+	#botao{
+		background-image: url(../Objetos/back_small.png);
+		background-repeat: no-repeat;
+		width: 140px;
+		height: 100px;
+		font-family: Curlz MT;
+		font-size: 24px;
+		color: #666;
+		font-weight: bold;
+	}
+	#botao:hover{
+		color: #8B4726;
+	}
+	#social{
+		width: 42px;
+		height: 40px;
+		border-radius: 12px;
+		float: right;
+	}
+	#social:hover{ border: solid 1px #8B4726;}
+	.social{ margin-left: 525px; margin-top: -92px;}
+	.menu{ 	
+		width: 932px;
+		margin-top: -265px; 
+		position: relative;
+		margin-left: 152px;
+		background-color: #7A378B;
+		border: solid 14px rgb(237,197,234);
+		}
+
+/****http://www.minhadocejoquebede.com.br
+Formato CSS: estilo_Doce - SECTION - São Paulo/07-10-2018 */ 
+	.anuncio #id{
+		height: 223px;
+		border-radius: 48px 48px;
+		border: 2px solid #8B6969;
+	}
+
+
+/****http://www.minhadocejoquebede.com.br
+Formato CSS: estilo_Doce - FOOTER - São Paulo/07-10-2018 */	
